@@ -426,3 +426,13 @@ h6,
 #header6-8 .mbr-section-text B {
   color: #000000;
 }
+#header6-b .mbr-section-title {
+  color: #28262b;
+}
+#header6-b .mbr-section-text {
+  color: #565656;
+  font-size: 20px;
+}
+#header6-b .btn {
+  font-size: 20px;
+}
